@@ -83,7 +83,7 @@ The dataset contains telecom customer information, including:
 ## 👤 Author
 **Chandraprakash Gupta**  
 🎓 TY BSc-IT Student  
-💻 Aspiring Data Analyst / Web Developer  
+💻 Aspiring Machine Learning
 
 
 ---
